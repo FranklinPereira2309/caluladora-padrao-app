@@ -1,0 +1,28 @@
+.botaoNumero {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 2rem;
+    text-overflow: ellipsis;
+    flex: 1 1;
+    height: 83px;
+    border-radius: 25px;
+    border: 2px solid #fff;
+    margin: 4px;
+    user-select: none;
+    background-color: #1b1b32;
+    cursor:pointer;
+    
+}
+
+.botaoNumero:hover {
+    background-color: #5a01a7;
+}
+
+.operador {
+    background-color: #00471b;
+}
+
+.operador:hover {
+    background-color: #ff6600;
+}

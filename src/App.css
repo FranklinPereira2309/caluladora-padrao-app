@@ -1,0 +1,28 @@
+.app {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background-color: #1b1b32;
+  height: 100vh;
+  color: #fff;
+}
+
+.container-calc {
+  display: flex;
+  flex-wrap: wrap;
+  width: 400px;
+  height: 600px;
+  background-color: #99c9ff;
+  border: 5px solid #fff;
+  border-radius: 20px;
+  padding: 10px 15px 0 15px;
+  
+}
+
+.linha  {
+  display: flex;
+  width: 100%;
+  height: 100px;
+  
+}
